@@ -24,4 +24,4 @@ Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: hare.science@gmail.com
+You can contact me at: hare.science@gmail.com
